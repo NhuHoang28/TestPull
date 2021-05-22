@@ -8,6 +8,7 @@ namespace example
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Van hung dtrai");
+            Console.WriteLine("Hello Van hung dtrai lan thu 2");
         }
     }
 }
